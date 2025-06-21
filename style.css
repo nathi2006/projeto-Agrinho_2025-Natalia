@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #006400;
+    background-color: #a7eca7;
     color: white;
     padding: 45px;
     text-align: center;
@@ -186,7 +186,7 @@ main section {
     max-width: 50%;
     height: auto;
     border-radius: 40px;
-    background-color: rgb(7, 138, 18);
+    background-color: rgb(184, 247, 189);
     font-weight: bold;
     padding: 2px 5px;
     border-radius: 5px;
